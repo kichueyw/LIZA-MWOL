@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+    "url": "git+https://github.com/kichueyw/Julie-Mwol.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,10 +18,10 @@
     "WhatsAsena"
   ],
   "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "developer": "@TOXIC-DEVIL / @kichueyw",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
+    "url": "https://github.com/kichueyw/Julie-Mwol/issues"
   },
   "homepage": "https://github.com/farhan-dqz/Julie-Mwol#readme",
   "dependencies": {
